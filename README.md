@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Anderson
 
-<!--
-**andersonbergara/andersonbergara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software (Estácio), com foco em JavaScript e Node.js, Linux, redes e cloud. Atualmente em busca de estágio na área.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Moro em São Bernardo do Campo, SP. Sou responsável pela área de TI da MSA Cursos, onde também ministro aulas de programação, informática e gestão. Minha base técnica combina manutenção de hardware, administração de Windows e Linux, redes e desenvolvimento web.
+
+## Tecnologias
+
+JavaScript · Node.js · HTML · CSS · Linux · Windows · Redes · Cloud
+
+## Projetos
+
+Em breve, meus projetos em JavaScript e Node.js estarão publicados aqui.
+
+## Contato
+
+LinkedIn: https://www.linkedin.com/in/andersonbergara
